@@ -1,2 +1,2 @@
-# Bash
-Hi, this is Pau learning Bash!
+# ELDEN RING
+Hi, this is a fun game I created to practice Bash!
