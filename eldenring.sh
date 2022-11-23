@@ -1,20 +1,10 @@
 #!/bin/bash
 
-echo "Welcome tarnished. Please select your starting class. You can chose between: (1-3)"
-
-sleep 1
+echo "Welcome tarnished. Please select your starting class. You can chose between:"
 
 echo "Samuray (1)"
-
-sleep 1
-
 echo "Prisoner (2)"
-
-sleep 1
-
 echo "Prophet(3)"
-
-sleep 1
 
 echo "Type 1, 2 or 3"
 
@@ -42,6 +32,8 @@ esac
 echo "You have chosen $type. Your hp is $hp and your attack is $attack."
 
 beast=$(( $RANDOM % 2 ))
+
+sleep 1
 
 echo "Welcome to your first fight. Pick a number between 1-2. (1/2)"
 read num1
