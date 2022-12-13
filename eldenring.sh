@@ -6,7 +6,7 @@ echo "Please select your starting class. You can chose between:"
 
 echo "Samuray (1)"
 echo "Prisoner (2)"
-echo "Prophet(3)"
+echo "Prophet (3)"
 
 echo "Type 1, 2 or 3"
 
